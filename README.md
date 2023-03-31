@@ -8,9 +8,6 @@ A simple TUI to play wordle.
 |-----------------------------------------------|-----------------------------------------------------|
 | ![game in progress](./assets/in-progress.png) | ![game finished with success](./assets/success.png) |
 
-
-
-
 ## Documentation
 
 Documentation is available using `wordle --help`
